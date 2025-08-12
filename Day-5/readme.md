@@ -30,7 +30,7 @@ At each step:
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kadane-algorithm.git
+   git clone https://github.com/ashishprogrammar/kadane-algorithm.git
 
 g++ kadane.cpp -o kadane
 ./kadane
